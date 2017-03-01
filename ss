@@ -4,6 +4,7 @@
 
 ---
 ![Alt text](https://gss0.baidu.com/9fo3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/f7246b600c338744415f82d8590fd9f9d62aa0f8.jpg)
+
 > Podlubny, I., & Podlubny, L. (1999). Fractional Differential Equations. Book, 1-366. https://doi.org/10.1016/S0076-5392(99)80017-4
 
 - It is clear from (2.8) that (i) ...
@@ -20,6 +21,8 @@
 - The relationship () says that ...
 - Examining the right-hand side of () we see that ...
 - We see that the formulas () and () can be considered as particular cases one of them, ...
+
+![Alttext](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1488355204803&di=ce0b7ab39fada4ec1ca1983b401e513a&imgtype=0&src=http%3A%2F%2Fimg165.poco.cn%2Fmypoco%2Fmyphoto%2F20111010%2F09%2F59834226201110100856395717601031574_021.jpg)
 
 >Moulay, E., & Perruquetti, W. (2006). Finite time stability and stabilization of a class of continuous systems. Journal of Mathematical Analysis and Applications, 323(2), 1430–1443. https://doi.org/10.1016/j.jmaa.2005.11.046
 
