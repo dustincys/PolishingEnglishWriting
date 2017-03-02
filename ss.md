@@ -21,14 +21,13 @@
 - Examining the right-hand side of () we see that ...
 - We see that the formulas () and () can be considered as particular cases one of them, ...
 
-![Alttext](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1488355204803&di=ce0b7ab39fada4ec1ca1983b401e513a&imgtype=0&src=http%3A%2F%2Fimg165.poco.cn%2Fmypoco%2Fmyphoto%2F20111010%2F09%2F59834226201110100856395717601031574_021.jpg)
-
+---
 
 >Moulay, E., & Perruquetti, W. (2006). Finite time stability and stabilization of a class of continuous systems. Journal of Mathematical Analysis and Applications, 323(2), 1430–1443. https://doi.org/10.1016/j.jmaa.2005.11.046
 
-- There is a problem which concerns ...
+- There is a problem `which concerns` ...
 - ... such property is useful to ...
-- The knowledge of the settling-time function and its regularity property allow to characterize the finite time stability by using Lyapunov functions.
+- The knowledge of the settling-time function and its regularity property `allow to` characterize the finite time stability `by using` Lyapunov functions.
 - ... have often been a subject of research ...
 - ... split the finite stability into ... and ...
 - ... is equivalent to ...
@@ -36,5 +35,62 @@
 - ... possess ...
 - ... denote by A B ...
 - ... use A to denote B...
--
+---
+>Lee, H., & Utkin, V. I. (2007). Chattering suppression methods in sliding mode control systems. Annual Reviews in Control, 31(2), 179–188. https://doi.org/10.1016/j.arcontrol.2007.08.001
+
+- ... has `been recognized as` one of the efficient tools to ...
+- ... `is often irritated by` ...
+- ..., however, the origin of the subspace s is unstable, and `it confirms` that the chattering appears in the system with unmodeled dynamics.
+- Therefore, there always exists the possibility that chattering problems `arise` when sliding mode controllers are implemented.
+### Some reference format in IEEE Transactions
+
+|Journal  | Format cited by IEEE transactions|
+|-|-|
+|IEE Proceedings-Electric Power Applications |Inst. Elect. Eng. Proc. Elect. Power. Appl |
+|IEEE Transactions on Industrial Informatics|IEEE Trans. Ind. Informat.|
+|IEEE Transactions on Magnetics|IEEE Trans. Magn.|
+|IEEE/ASME Transactions on Mechatronics|IEEE/ASME Trans. Mechatron.|
+||IEEE Trans. Control Syst. Technol.|
+||Asian J. Contr.|
+||J. Micromech. Microeng.|
+||IEEE Trans. Ind. Electron.|
+||IET Elect. Power Appl.|
+||IEEE Trans. Cybern.|
+||IEEE Trans. Fuzzy Syst.|
+||IEEE Trans. Neural Netw. Learn. Syst.|
+||IEEE Trans. Autom. Control|
+||IEEE Trans. Biomed. Eng.|
+||IEEE Trans. Robot. Autom.|
+||IEEE Trans. Veh. Technol.|
+||Automatica|
+||Fuzzy  Sets Syst.|
+||J.  Franklin  Inst.|
+||Control Eng. Pract.|
+||Int. J. Control|
+||Robotica|
+||IEEE J. Robot. Autom.|
+||Int. J. Humanoid Robot.|
+||IEEE Trans. Aerosp. Electron. Syst.|
+||Proc. Amer. Control Conf.|
+||J. Intell. Syst.|
+||Proc. IEEE/RSJ Int. Conf. Intell. Robot. Syst.|
+||Robot. Autonomous Syst.|
+||Proc. IEEE Int. Symp. Intell. Control|
+||Proc. IEEE Ind. Electron. Conf|
+||Proc. Ind. Electron.|
+||IET Control Theory Appl.|
+||Proc. IEEE Int. Conf. Ind. Technol.|
+||J. Vib. Control.|
+||ISA Trans.|
+||Proc. IEEE Aerospace Conf.|
+||Proc. AIAA Conf. Guidance, Navigation, and Control|
+||Proc. 40th IEEE Conf. Decision and Control|
+||Int. J. Robot. Res.|
+||Robot. Auton. Syst.|
+||Proc. 15th IFAC Conf.|
+||J. Guid., Control, Dyna.|
+||Proc. 5th Int. Conf. Adv. Robot.|
+||Proc. IEEE Ind. Electron. Appl.|
+||Nonlinear Dyn.|
+||Proc. 41st IEEE Conf. Decision Control|
 `To be continued ... `
