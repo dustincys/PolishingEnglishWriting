@@ -94,3 +94,8 @@
 ||Nonlinear Dyn.|
 ||Proc. 41st IEEE Conf. Decision Control|
 `To be continued ... `
+## Some `conventional` words
+`为天地立心`
+`为生民立命`
+`为往圣继绝学`
+`为万世开太平`
