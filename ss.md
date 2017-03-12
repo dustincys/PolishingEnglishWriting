@@ -42,6 +42,12 @@
 - ... `is often irritated by` ...
 - ..., however, the origin of the subspace s is unstable, and `it confirms` that the chattering appears in the system with unmodeled dynamics.
 - Therefore, there always exists the possibility that chattering problems `arise` when sliding mode controllers are implemented.
+
+> Zhou, Z.-H., & Feng, J. (n.d.). Deep Forest: Towards An Alternative to Deep Neural Networks.
+
+- `In contrast to` deep neural networks which require great effort in hyper-parameter tuning, gcForest `is much easier to train`.
+- The training process of gcForest is efficient and scalable. In our experiments its training time running on a PC `is comparable to that of` deep neural networks running with GPU facilities.
+- In recent years, deep neural networks `have achieved great success in various applications, particularly in tasks involving` visual and speech information.
 ### Some reference format in IEEE Transactions
 
 |Journal  | Format cited by IEEE transactions|
