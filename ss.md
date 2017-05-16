@@ -59,6 +59,10 @@
 
 - The finite-time control `is of interest` because thesystems with finite-time convergence `demonstrate` some nice features such as `faster convergence rate`, `better robustness `and `distubance rejection properties`.
 
+> Li, H., Yan, W., & Shi, Y. (2017). Continuous-time model predictive control of under-actuated spacecraft with bounded control torques. Automatica, 75, 144–153. https://doi.org/10.1016/j.automatica.2016.09.024
+
+- It's assumed that $c_3\neq 0$, which is to ensure the nonlinear system is controllable.
+- In this study, the homogeneous norm $\rho_p^r(x)$ will be written as $\rho(x)$ in case of not causing any confusions.
 
 ### Some reference format in IEEE Transactions
 
