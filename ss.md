@@ -38,10 +38,16 @@
 ---
 >Lee, H., & Utkin, V. I. (2007). Chattering suppression methods in sliding mode control systems. Annual Reviews in Control, 31(2), 179–188. https://doi.org/10.1016/j.arcontrol.2007.08.001
 
+
 - ... has `been recognized as` one of the efficient tools to ...
 - ... `is often irritated by` ...
 - ..., however, the origin of the subspace s is unstable, and `it confirms` that the chattering appears in the system with unmodeled dynamics.
 - Therefore, there always exists the possibility that chattering problems `arise` when sliding mode controllers are implemented.
+
+>Li, H., Yan, W., & Shi, Y. (2017). Continuous-time model predictive control of under-actuated spacecraft with bounded control torques. Automatica, 75, 144–153. https://doi.org/10.1016/j.automatica.2016.09.024
+
+- It's assumed that $c_3\neq 0$, which is to ensure that nonlinear system is controllable.
+- In this study, the homogeneous norm $\rho_p^r(x)$ will be written as $\rho(x)$ in case of not causing any confusions.
 ### Some reference format in IEEE Transactions
 
 |Journal  | Format cited by IEEE transactions|
