@@ -48,6 +48,18 @@
 
 - It's assumed that $c_3\neq 0$, which is to ensure that nonlinear system is controllable.
 - In this study, the homogeneous norm $\rho_p^r(x)$ will be written as $\rho(x)$ in case of not causing any confusions.
+=======
+> Zhou, Z.-H., & Feng, J. (n.d.). Deep Forest: Towards An Alternative to Deep Neural Networks.
+
+- `In contrast to` deep neural networks which require great effort in hyper-parameter tuning, gcForest `is much easier to train`.
+- The training process of gcForest is efficient and scalable. In our experiments its training time running on a PC `is comparable to that of` deep neural networks running with GPU facilities.
+- In recent years, deep neural networks `have achieved great success in various applications, particularly in tasks involving` visual and speech information.
+
+> Li, S., Member, S., & Du, H. (2014). Discrete-Time Terminal Sliding Mode Control Systems Based on Euler's Discretization, 59(2), 546–552.
+
+- The finite-time control `is of interest` because thesystems with finite-time convergence `demonstrate` some nice features such as `faster convergence rate`, `better robustness `and `distubance rejection properties`.
+
+
 ### Some reference format in IEEE Transactions
 
 |Journal  | Format cited by IEEE transactions|
