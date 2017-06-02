@@ -65,12 +65,20 @@
 - In this study, the homogeneous norm $\rho_p^r(x)$ will be written as $\rho(x)$ `in case of not causing any confusions`.
 - This section first `develops on how to design` the homogeneous Lyapunov function ...
 - For `the ease of presentation`, ...
-- The corresponding state trajectories are defined accordingly. 
+- The corresponding state trajectories are defined accordingly.
 
 > Morin, P., & Samson, C. (1997). Time-varying exponential stabilization of a rigid spacecraft with two control torques. IEEE Transactions on Automatic Control, 42(4), 528–534. https://doi.org/10.1109/9.566663
 
 - $x=0$ is globally exponentially stable `in the sense` that there exist two strictly positive constants $K$ and $\gamma$ such that `along any solution of`...
 
+> Efe, M. Ö., & Member, S. (2008). Fractional Fuzzy Adaptive Sliding-Mode Control of a 2-DOF Direct-Drive Robot Arm, 38(6), 1561–1570.
+
+- The rule conclusions, which are in the form of a linear combination of the input variables `augmented by` a constant bias $(\phi_i,m+1)$, are given in (8c).
+- According to (8d), it is seen that the ANFIS structure has single output. With these in mind, the output of the ANFIS structure `can be paraphrased as` ...
+
+> Li, Y., Chen, Y. Q., & Podlubny, I. (2009). Mittag-Leffler stability of fractional order nonlinear dynamic systems. Automatica, 45(8), 1965–1969. https://doi.org/10.1016/j.automatica.2009.04.003
+
+- The Lyapunov direct method is a sufficient condition to show the stability of nonlinear systems, which means the system may still be stable, even if one cannot find a Lyapunov function candidate to conclude the system stability property.
 ### Some reference format in IEEE Transactions
 
 |Journal  | Format cited by IEEE transactions|
